@@ -1,0 +1,1248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections upon two pamphlets lately published one called, A letter from Monsieur de Cros, concerning the memoirs of Christendom. And the other, An answer to that letter. Pretended to have been written by the author of the said memoirs. By a Lover of truth. Imprimatur, Edward Cooke. April 21st. 1693.</title>
+            <author>Lover of truth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58391</idno>
+            <idno type="STC">Wing R734AA</idno>
+            <idno type="STC">ESTC R220579</idno>
+            <idno type="EEBO-CITATION">99831975</idno>
+            <idno type="PROQUEST">99831975</idno>
+            <idno type="VID">36442</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36442)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2132:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections upon two pamphlets lately published one called, A letter from Monsieur de Cros, concerning the memoirs of Christendom. And the other, An answer to that letter. Pretended to have been written by the author of the said memoirs. By a Lover of truth. Imprimatur, Edward Cooke. April 21st. 1693.</title>
+                  <author>Lover of truth.</author>
+               </titleStmt>
+               <extent>[2], 6, 9-40 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Baldwin, near the Oxford-Arms in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1 reads: Reflections on a letter from Monsieur de Cros, &amp;c.</note>
+                  <note>"Reflections upon an answer to the letter from Mons. De Cros" has separate dated title page; register and pagination are continuous.</note>
+                  <note>Text and register are continuous despite pagination.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Du Cros, Simon, 17th cent. --  Lettre de Monsieur Du Cross à Mylord **** afin de servir de réponse aux impostures de Monsieur le Chevalier Temple --  Early works to 1800.</term>
+               <term>Temple, William, --  Sir, 1628-1699 --  Early works to 1800.</term>
+               <term>Dutch War, 1672-1678 --  Early works to 1800.</term>
+               <term>Europe --  History --  1648-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36442:1"/>
+            <pb facs="tcp:36442:1" rendition="simple:additions"/>
+            <p>REFLECTIONS UPON TWO PAMPHLETS Lately Publiſhed; One called, A
+LETTER from Monſieur <hi>de Cros,</hi> concerning the MEMOIRS of
+<hi>Chriſtendom.</hi> And the Other, An ANSWER to that Letter. Pretended to
+have been written by the Author of the ſaid MEMOIRS.</p>
+            <p>By a Lover of Truth.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>IMPRIMATUR,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>April</hi> 21ſt.
+1693.</date>
+                           </dateline> 
+                           <signed>EDWARD COOKE.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Richard Baldwin,</hi> near the
+<hi>Oxford-Arms</hi> in <hi>Warwick-Lane.</hi> 1693.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:36442:2"/>
+                  <pb n="1" facs="tcp:36442:2"/>
+                  <head>REFLECTIONS ON A LETTER From Monſieur <hi>de Cros,</hi>
+&amp;c.</head>
+                  <p>I Was very glad when I heard that one Mon<g ref="char:EOLhyphen"/>ſieur <hi>de
+Cros</hi> had publiſhed an Anſwer to a late Book, Entituled, <hi>Memoirs of
+what paſs'd in</hi> Chriſtendom, <hi>&amp;c.</hi> And could not but expect
+ſome conſiderable Diſcoveries in thoſe Affairs and Intriegues, from a
+perſon who thought himſelf a Match for Sir <hi>W. T.</hi> Beſides, I
+hoped it might have had this good Effect, to move that Author in his own
+defence to oblige us once more with his Pen. This was ſufficient to make me
+buy this Pamphlet greedily, as I do moſt others; which tho very of<g ref="char:EOLhyphen"/>ten they
+entertain one ill enough, yet ſerve in ge<g ref="char:EOLhyphen"/>neral for ſome amuſement
+amidſt the Noiſe and Hur<g ref="char:EOLhyphen"/>ry of a dirty Town.</p>
+                  <p>But when I had read it over, I ſoon found my ſelf deceived
+in the firſt; and have now loſt all hopes of the other, ſince I have
+waited above two months in that Expectation, whereas two days were
+ſufficient, had that Author thought fit to take any notice of ſuch a
+Trifle, which makes me now deſpair of it; and as I perceiv'd the Town never
+looked for any ſuch thing; ſo all I meet with, either in Coffee-houſes,
+or Ordinary Converſation, have ſuch deſpica<g ref="char:EOLhyphen"/>ble Thoughts of this Letter,
+that I now begin to find I never had any reaſon to expect it at all. For in
+truth, the whole Letter ſeems to me only deſign'd <pb n="2" facs="tcp:36442:3"/>to
+<hi>Banter</hi> Fools or Children, and to be written by a man who had loſt
+all Reſpect to the Publick, whom he thinks fit to entertain with ſuch
+wretched ſtuff, which certainly he could not pretend ſhould ei<g ref="char:EOLhyphen"/>ther
+pleaſe or inſtruct any Reader, who had not as much malice, and as little
+Wit as himſelf. For be<g ref="char:EOLhyphen"/>ſides Railing and Foul Language, his whole Letter
+from the beginning to the end is an errant Sham and has nothing in it. 'Twas
+therefore in vain to imagine Sir <hi>W. T.</hi> would deſcend ſo much below
+himſelf, to take any notice of ſo fulſome a Libel; and I do not believe
+either <hi>de Cros,</hi> or the kind Writer of the <hi>Ad<g ref="char:EOLhyphen"/>vertiſement</hi>
+after the Letter, did ever expect it.</p>
+                  <p>For firſt, If Sir <hi>W. T.</hi> be ſuch a Philoſopher,
+as he ſeems to be by his <hi>Eſſay upon the Gardens of</hi> Epicurus, as
+well as ſeveral others; he muſt infinitely contra<g ref="char:EOLhyphen"/>dict the Ideas thoſe
+Writings have given of him, if ſo ſordid and inſipid a Trifle as this
+Letter of <hi>de Cros</hi> could have any power to provoke him, tho it were but
+to ſcorn it.</p>
+                  <p>Beſides, if he be ſo proud a Perſon, as <hi>De Cros</hi>
+is pleaſed to call him; certainly, while he remembers his own Quality, and
+the great Employments he has paſſed through with ſo much Honour to
+him<g ref="char:EOLhyphen"/>ſelf, and ſuch important Services for his Prince and Country, ſuch
+thoughts will never allow him to en<g ref="char:EOLhyphen"/>ter the Liſts with one; who to ſay no
+more, has owned himſelf in his Letter to be <hi>Un Moin Defroquè,</hi>
+which none who underſtand the leaſt of the <hi>French</hi> Tongue, need be
+told, is the loweſt and moſt profli<g ref="char:EOLhyphen"/>gate Character that can be given a Man.
+I ſuppoſe the reaſon of it is, becauſe he who has once broke his Vow to
+God, there are People enough apt to believe he will never regard any he makes
+to them.</p>
+                  <p>A third Reaſon is, Becauſe his Letter is indeed
+un<g ref="char:EOLhyphen"/>anſwerable; and Proſecution would be as little neceſ<g ref="char:EOLhyphen"/>ſary to him, as
+to one that pleads guilty at the Bar; for he owns over and over, every Line of
+the Charge <pb n="3" facs="tcp:36442:3"/>that he pretends is laid againſt him; ſays not
+one word, either to defend or extenuate it; does not con<g ref="char:EOLhyphen"/>tradict the leaſt
+point in the Memoirs he pretends to Anſwer; nor lays one ill Action to Sir
+<hi>W. T</hi>'s Honour. So that there remains but one way to Anſwer this
+Letter with any Rule or Juſtice, and that is, to gather all the cleanly
+Language one can pick up at <hi>Billingſgate,</hi> and bring it in its
+natural Reeking to the Preſs, and ſo make up a ſhort, but ſweet
+Pamphlet, ſet out with a Bead-roll of ſuch Pearls, as are always to be
+found among the Oyſter-women.</p>
+                  <p>A fourth Reaſon is, Becauſe that Book which goes by the
+Name of Sir <hi>W. T</hi>'s <hi>Memoirs,</hi> as one ſees by the
+Publiſher's Preface, has been printed wholly without his Knowledg or
+Conſent: For in the very firſt lines he plainly intimates he had his Copy
+from no Man then alive: And a known Writer ſince, who pretends to have
+inquired into that matter, aſſures us, the Pub<g ref="char:EOLhyphen"/>liſher had it lying by him
+ſeveral years before it was publiſhed; nor can I find by my own beſt
+Inquiries, that Sir <hi>W. T.</hi> has ever own'd it. And tho I may believe,
+like others, that he muſt have writ them, by that ex<g ref="char:EOLhyphen"/>cellent Stile, that
+ſtrength and clearneſs of Expreſſi<g ref="char:EOLhyphen"/>on, as well as by that Spirit and
+Genius which ſo brightly ſhines through the whole, and is peculiar to that
+Author above others of his Age; and beſides, becauſe I ſuppoſe no Man
+elſe was capable of know<g ref="char:EOLhyphen"/>ing or diſcovering ſo much of theſe
+Tranſactions; yet ſince they have ſtollen into Publick againſt his
+will, and his privity, it is not to be imagined he ſhould de<g ref="char:EOLhyphen"/>fend a thing he
+does not reckon as his own; and therefore if <hi>de Cros,</hi> or the honeſt
+<hi>Tranſlator,</hi> had found themſelves injured, their reſentments had
+been more juſtly levelled at the Publiſher, than the ſuppo<g ref="char:EOLhyphen"/>ſed
+Author.</p>
+                  <p>By all theſe Reaſons, 'tis eaſy to believe, that a
+Perſon of Sir <hi>W. T.</hi>'s Character and Honour, and whoſe Re<g ref="char:EOLhyphen"/>putation
+is ſo firmly eſtabliſhed in the World, will <pb n="4" facs="tcp:36442:4"/>never fall
+ſo low to oppoſe himſelf againſt the Scurri<g ref="char:EOLhyphen"/>lous Reproaches of ſo
+foul-mouth'd a Railer; 'twould be like a ſet Duel between a ſtrong Man
+well-arm'd, and a poor wretched Cripple. The Quarrel therefore will be more
+properly turn'd over to the reſt of Man<g ref="char:EOLhyphen"/>kind; for tho the venom of
+<hi>this</hi> be too weak to reach where it aim'd; yet all thoſe who have any
+regard for Truth or Juſtice, for Learning or Virtue, or even for good Manners
+and common Civility, muſt think themſelves concern'd in a Quarrel, where
+they find ſo notorious a breach of them all.</p>
+                  <p>'Tis fit therefore ſo ignominious a Libeller ſhould be
+expoſed in his proper Colours, of an infamous, ſlan<g ref="char:EOLhyphen"/>dring, and unprovok't
+Railer; which tho his own Letter has plentifully done, yet 'twill be very
+proper to point to ſeveral places in it, where it is moſt re<g ref="char:EOLhyphen"/>markable.</p>
+                  <p>For my own part, I will confeſs, I have been a great Reader
+of all Sir <hi>W. T</hi>'s Writings, and perhaps may have doated on ſome of
+them, eſpecially, <hi>That Immor<g ref="char:EOLhyphen"/>tal Eſſay on Heroick Virtue,</hi> as one
+Writer ſince has de<g ref="char:EOLhyphen"/>ſervedly called it; and that other upon
+<hi>Poetry,</hi> and even on this of the <hi>Memoirs.</hi> And finding Common
+Fame, wherever I had met it, agrees ſo well with the Picture theſe Pieces
+had given me of him, I will own to have had a very great Honour for the Author,
+as well as for his Books, and could not but eſteem both a great deal the more
+for this Letter of <hi>de Cros,</hi> when I found that the triple-corded Malice
+of the <hi>Writer,</hi> the <hi>Tranſlator,</hi> and the
+<hi>Advertiſer,</hi> had not given one laſh either to the Honour of the
+Perſon, or the truth of his Books. And all this put together, has in very
+truth given me ſo much Spight and Indignati<g ref="char:EOLhyphen"/>on, that I could not refrain
+entring on the <hi>Pam<g ref="char:EOLhyphen"/>phletiers</hi> Trade, which I never did before, nor ever
+thought I ſhould have done at all: And but for this Provocation, could have
+been very well ſatisfied to have lived on without the itch of ſeeing how I
+look <pb n="5" facs="tcp:36442:4"/>in Print; ſo that I may truly ſay for this, as the
+Poet does for his Verſes, 
+<q> 
+                        <l>
+                           <hi>— Facit Indignatio Verſus.</hi>
+                        </l>
+                     </q>
+                  </p>
+                  <p>Before I enter upon obſerving what <hi>de Cros</hi> ſays
+concerning Sir <hi>W. T.</hi> which takes up the greateſt part of his Letter,
+and leaves him either no Room, or no Memory for the <hi>Memoirs</hi> he
+pretends to Anſwer; I ſhall firſt examine what he ſpeaks of himſelf,
+and in his own defence, againſt what he takes himſelf to be charged
+with.</p>
+                  <p>He begins, p. 10. <hi>There arrived</hi> (ſays he, quoting
+the <hi>Memoirs) at that time from</hi> England, <hi>one whoſe Name was</hi>
+de Cros. Upon this he falls immediately into a Scurrilous Chafe. Now, one would
+wonder what ſhould make the Man ſo offended to be called by his own Name,
+or what would have become of Sir <hi>W. T.</hi> if he had call'd him out of his
+Name, which is indeed commonly thought an injury, but not the other, as ever I
+heard of before; yet he reckons it a terrible one to himſelf and his Family,
+which he tells us is <hi>a good one;</hi> I know not whether he means the
+<hi>de Cros</hi>'s, or the <hi>Monks.</hi> The firſt I muſt confeſs, I
+never heard of in <hi>France,</hi> but the other is indeed a great one abroad,
+and a good one at home. But what<g ref="char:EOLhyphen"/>ever he would have us think of the Goodneſs
+of his Family, I will never believe, by what little under<g ref="char:EOLhyphen"/>ſtanding I have of
+Heraldry, that any <hi>Gentleman</hi> would either write ſuch a Letter, or
+<hi>Tranſlate</hi> it, tho it were only out of the common Reſpect that is
+due to the Memory of a Great King, whoſe Perſon Sir <hi>W. T.</hi> has ſo
+often repreſented, and in ſo high a Character.</p>
+                  <p>But to proceed; <hi>That he was formerly a</hi> French
+<hi>Monk</hi> (as the Memoirs call him), he confeſſes, and owns beſides
+(tho with a great deal of ill-will) that <hi>He changed his Frock for a
+Petticoat:</hi> For, tho he de<g ref="char:EOLhyphen"/>nies <pb n="6" facs="tcp:36442:5"/>it poſitively,
+<hi>p.</hi> 11. yet five Lines after, he has theſe words; <hi>There was too
+great advantage to throw off my Frock for the Petticoat I have taken, not to do
+it; it is a Petticoat of a</hi> Scotch <hi>Stuff,</hi> &amp;c. I am glad it is
+of one ſo good as he mentions, and wiſh it were large enough to cover all
+his Shame: But whatever he ſays in the ſame Page, too malicious to be taken
+notice of here, of <hi>Princeſſes, who have quitted the Veil for the
+Breeches</hi> (tho, in that it ſelf, I believe, he is miſtaken) yet all
+this will never ſerve to wipe off the Ignominy of <hi>Un Moin
+Defroquè:</hi> Upon which I ſhall only add, That the Marriage of a
+Monk, when ſtripp'd of his Frock, is not thought likely to mend the matter:
+And I believe men of all Religions will agree in the Opinion, That if a Monk
+leaves his Frock, he ought to do it for a <hi>Gown,</hi> rather than for a
+<hi>Petticoat;</hi> and if he leaves the Orders of one Church, ſhould in
+decency continue in the Orders of that Church to which he profeſſes
+himſelf converted.</p>
+                  <p>As to his being a <hi>Swediſh Agent,</hi> tho he is very
+angry the <hi>Memoirs</hi> ſhould call him ſo; one cannot well diſcover
+by his Letter, whether he has a mind to grant it of no; however, he
+confeſſes, p. 13, 14. That <hi>being Envoy from the Duke of</hi>
+Holſtein-Gottorp, <hi>the Intereſts of his Maſter being inſeperable
+from thoſe of</hi> Sueden, <hi>he found himſelf engaged to be very much
+con<g ref="char:EOLhyphen"/>cerned in the Intereſts of that Crown; and that Monſieur</hi> Van
+Beuninguen <hi>believed, He was intruſted with ſome Affairs from
+thence.</hi> Which amounts to the very ſame with what the <hi>Memoirs</hi>
+ſay, p. 335. That <hi>he</hi> (de Cros) <hi>had a Commiſſion from the
+Court of</hi> Sueden <hi>(or Credence at leaſt) for a certain petty Agency
+in</hi> Eng<g ref="char:EOLhyphen"/>land. This he ſays, <hi>Is very Dirty.</hi> Alas for the clean<g ref="char:EOLhyphen"/>ly
+Gentleman! one would think he was afraid of fouling his Fingers, but he had a
+great deal more need have taken care of his mouth. By the way, I cannot but
+admire at the inſufferable Impudence of the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Printer or
+Tranſlator, who hath in the Title Page <pb n="9" facs="tcp:36442:5"/>named this man,
+<hi>An Ambaſſador at the Treaty of</hi> Ni<g ref="char:EOLhyphen"/>meguen; ſince in the ſeveral
+Accounts I have ſeen printed of that Treaty, there is not the leaſt
+menti<g ref="char:EOLhyphen"/>on of ſuch a Name any other way than in thoſe <hi>Me<g ref="char:EOLhyphen"/>moirs</hi> he
+pretends to Anſwer. And 'tis doubt leſs ve<g ref="char:EOLhyphen"/>ry agreeable to think, that a
+man who gives himſelf ſo <hi>good</hi> a Character in his own Letter,
+ſhould make ſo great a one in ſo Auguſt an Aſſembly as that is
+re<g ref="char:EOLhyphen"/>corded to have been: And he himſelf in his whole Letter, arrogates no
+other beſides that of Envoy Ex<g ref="char:EOLhyphen"/>traordinary from the Duke of
+<hi>Holſtein-Gottorp</hi> into <hi>England,</hi> who was a Prince at that
+time wholly diſ<g ref="char:EOLhyphen"/>poſſeſs'd of His Dominions.</p>
+                  <p>Another Paſſage in the Memoirs which he takes ſadly to
+heart, is in the ſame <hi>Pag.</hi> 335. as follows: <hi>At</hi> London
+<hi>he had devoted himſelf wholly to Monſieur</hi> Barillon, <hi>the</hi>
+French <hi>Ambaſſador, though pretending to purſue the Intereſts
+of</hi> Sweden: Againſt which he thus defends himſelf. Firſt, Letter,
+<hi>pag.</hi> 14. He abſo<g ref="char:EOLhyphen"/>lutely denies it; and ſays in the next, <hi>He
+fell out with Monſieur</hi> Barillon <hi>for three Months, becauſe he
+diverted the King of</hi> England <hi>from taking into his conſideration the
+Intereſts of</hi> Sweden. And <hi>pag.</hi> 16. He ſays fur<g ref="char:EOLhyphen"/>ther; <hi>That
+Monſieur</hi> Barillon <hi>put all in practice to ſift him to the
+bottom</hi> (concerning the <hi>Swediſh</hi> Affairs) <hi>ne<g ref="char:EOLhyphen"/>vertheleſs all
+the Offers of this Ambaſſador proved inef<g ref="char:EOLhyphen"/>fectual, and wrought nothing upon
+this man</hi> (meaning him<g ref="char:EOLhyphen"/>ſelf) <hi>who if a man would give credit to
+Sir</hi> W. T. <hi>was entire<g ref="char:EOLhyphen"/>ly devoted to Monſieur</hi> Barillon, <hi>and
+yet Monſieur</hi> Barillon <hi>found him not to be corrupted or bribed.</hi>
+All this would be an Account good enough of his Innocence in that point, if it
+had not the misfortune to be ſo ill plac'd. 'Tis indeed a good way back to
+the fifth Page of his Let<g ref="char:EOLhyphen"/>ter: And therefore what he ſays there, one may by
+the help of a little Charity, impute to the ſhortneſs of his Memory.
+Theſe are his Words: <hi>I have had the happineſs during ſome years, to
+partake in the confi<g ref="char:EOLhyphen"/>dence of a Miniſter of State,</hi> &amp;c. And a little
+after; <pb n="10" facs="tcp:36442:6"/>
+                     <hi>Sir</hi> W. T. <hi>may well imagine that I did
+not ill improve this able Miniſter's Confidence, when he tells us, that I had
+wholly devoted my ſelf to him.</hi> But then how comes it, that in the ſame
+15<hi>th</hi> page, where he twice endeavours to defend himſelf againſt
+this Imputati<g ref="char:EOLhyphen"/>on, he ſhould make ſuch a Blunder as to ſay, <hi>But yet I
+muſt confeſs, that at ſuch time as he</hi> (<hi>Monſieur</hi>
+Ba<g ref="char:EOLhyphen"/>rillon) <hi>ſtickled for my Maſter's Intereſt, and that of</hi>
+Sweden, <hi>I was</hi> entirely devoted <hi>to him,</hi> &amp;c.? After this,
+let the Reader judge, whether <hi>de Cros</hi> does not confeſs at leaſt as
+much, if not more in this Point, than the Memoirs charge him with: And it is to
+be obſerved from the ſame Book, that at the very time <hi>de Cros</hi>
+ſpeaks of, <hi>France</hi> had taken into its Protecti<g ref="char:EOLhyphen"/>on the Intereſts of
+<hi>Sweden,</hi> which it ſeem'd for ſome Months before to have very little
+regarded.</p>
+                  <p>But nothing touches him ſo nearly as the follow<g ref="char:EOLhyphen"/>ing
+Paſſage in the ſame 335<hi>th</hi> page of the Memoirs: <hi>This man
+brought me a Pacquet from Court, comman<g ref="char:EOLhyphen"/>ding me to go immediately away to</hi>
+Nimeguen. Upon which, ſays he, <hi>Pag.</hi> 16. <hi>Sir</hi> W. T. <hi>has a
+mind to make men believe that I was only ſent into</hi> Holland <hi>to carry
+him a Diſpatch from the Court.</hi> This paſſage has ſo fiercely gall'd
+him, that he is ſet a railing for ſix pa<g ref="char:EOLhyphen"/>ges together; and the affront is,
+that he ſhould be taken for an ordinary Courier, or Meſſenger. Had a
+do<g ref="char:EOLhyphen"/>zen Waſps ſetled on his Tongue, they could not have ſwell'd or infus'd
+more Poiſon in it; he frets and foams at the mouth, and ſpatters ſo much
+Dirt on all ſides, that it is not ſafe following him. In ſhort, he takes
+it ſo heinouſly to be reckoned a Common Courier, that one could not have
+netled him more, had one call'd him a Poſt, or a Poſt-horſe. I can<g ref="char:EOLhyphen"/>not
+imagine why any ſuch words in the <hi>Memoirs,</hi> ſhould put a man into
+ſo much paſſion: And for my part, both in this and all the reſt, I
+ſee but one reaſon why he is angry; and that is, <hi>Becauſe he is
+angry.</hi> However, againſt this grievous Imputation, <pb n="11" facs="tcp:36442:6"/>he
+defends himſelf by this ſtrong Argument; That <hi>he was not ſent over on
+purpoſe to deliver the Diſpatch to Sir</hi> W. T. <hi>but for ſomething
+of greater importance, which he knows himſelf, and will not tell any
+body.</hi> Wherein I think he acts very diſcreetly; and I do not doubt, but
+the beſt way to give any Reputati<g ref="char:EOLhyphen"/>on to his mighty Secrets, is to hinder them
+from taking Air: Tho had he done us the favour to diſ<g ref="char:EOLhyphen"/>cover but one of all
+thoſe he boaſts ſo much of, it would perhaps have been the moſt
+effectual way to raiſe our expectation of the reſt. He would indeed make us
+believe, that in five Hours time he ſtay'd at the <hi>Hague,</hi> he had made
+ſome mighty Turn of State by his Negotiations there; which if there be any
+truth in it, we will grant him to have been not only an <hi>Agent,</hi> but a
+<hi>Conjurer;</hi> and from the ſtrange Effect of his Conduct in that
+ſtrange <hi>Adventure of five hours,</hi> we may hope one day to ſee a
+<hi>Tragedy of that Name,</hi> as there has been a <hi>Comedy</hi> already. But
+till he thinks fit to make more important Diſcoveries, he will pardon our
+ſuſpenſe in that modeſt Opinion he had of himſelf, That doubtleſs
+he ſhould publiſh more juſt and ſolid <hi>Memoirs</hi> than Sir <hi>W.
+T.</hi> if he would ſet about it. But I obſerve he deſires <hi>My Lord to
+take notice, that Sir</hi> W. T. <hi>confeſſes it was</hi> De Cros
+<hi>procured this Diſpatch.</hi> I find when men are ve<g ref="char:EOLhyphen"/>ry angry, that Truth
+is the leaſt thing they regard: For this is more than ever I could obſerve
+after reading thoſe <hi>Memoirs</hi> with more care and applicati<g ref="char:EOLhyphen"/>on than I
+am ſure his good humour would ever per<g ref="char:EOLhyphen"/>mit him; and in <hi>pag.</hi> 336.
+find theſe Words: <hi>How this Diſpatch by</hi> De Cros <hi>was gain'd, or
+by whom, I will not pretend to determine.</hi> Which <hi>De Cros</hi> has very
+politickly thus altered, <hi>Letter, pag.</hi> 18. <hi>I will not pre<g ref="char:EOLhyphen"/>tend to
+determine by what means, and how</hi> De Cros <hi>ob<g ref="char:EOLhyphen"/>tained this
+Diſpatch.</hi> But <hi>pag.</hi> 19. he forgets himſelf again, and ſays.
+<hi>As for me, tho I had the diſpatch gi<g ref="char:EOLhyphen"/>ven me, yet he</hi> (<hi>Sir</hi> W.
+T.) <hi>does not accuſe me openly in <pb n="12" facs="tcp:36442:7"/>this place of bearing
+any other part in this affair, that only as a Meſſenger intruſted with
+the Conveyance.</hi> But I ſup<g ref="char:EOLhyphen"/>poſe he never looked farther than his malice
+would give him leave, which is uſually very ſhort-ſighted.</p>
+                  <p>But after all, 'tis not eaſily thought why he ſhould lay
+it ſo much to heart to be called a Courier, when the whole account he gives
+of his great Negotiations (beſides his being Envoy of the <hi>Duke</hi> of
+<hi>Holſtein-Gottorp</hi>) is, that he <hi>was ſent by King</hi> Charles
+<hi>the Second into</hi> Swe<g ref="char:EOLhyphen"/>den <hi>and</hi> Denmark, <hi>to haſten the
+Paſſports for the Con<g ref="char:EOLhyphen"/>greſs at</hi> Nimeguen: Which is all he tells us of
+his great Employments, and muſt be thought to have brought him into that
+intimacy and confidence he pretends with that great King, and for which he is
+pleaſed to make his Majeſty ſuch grateful Returns, and to form ſuch a
+Character of him as he does in his Letter.</p>
+                  <p>For in the firſt place he tells us, <hi>p.</hi> 5. That
+<hi>Monſ.</hi> Ba<g ref="char:EOLhyphen"/>rillon <hi>was the</hi> Primum Mobile <hi>of that King's
+conduct, which ſurprized all the World.</hi> Which is to affirm more of him
+than any of his diſcontented Subjects, the pre<g ref="char:EOLhyphen"/>tended Patriots of that Age.
+For it is to aſſert open<g ref="char:EOLhyphen"/>ly and poſitively what they only pretended to
+ſuſpect.</p>
+                  <p>Again, Soon after the King had made the Peace with
+<hi>Holland, De Cros</hi> brings his Majeſty in, <hi>p.</hi> 23. ſpeaking
+to him in theſe Words: <hi>Tell the King my Bro<g ref="char:EOLhyphen"/>ther</hi> (meaning the
+<hi>French</hi> King) <hi>that it is much againſt my mind, that I have made
+peace with theſe</hi> Coquins <hi>the</hi> Hollanders. And then a little
+before the concluſion of the Peace at <hi>Nimeguen,</hi> he delivers the King
+ſpeaking thus to Monſ. <hi>Shrenburn</hi> concerning the <hi>Hollanders; In
+a little time Monſieur, I will bring theſe</hi> Coquins <hi>to
+Reaſon.</hi> And in the ſame page he makes that Prince uſe the ſame
+Name to two great Miniſters, Monſ. <hi>Barillon,</hi> and Monſ. <hi>De
+Avaux.</hi> The former whereof he pretends to have been the firſt Mover of
+all His Majeſty's Coun<g ref="char:EOLhyphen"/>cils. All which, if they be not abſolute Untruths,
+as from his plentiful Gift that way, I am very much in<g ref="char:EOLhyphen"/>clined 
+<pb n="13" facs="tcp:36442:7"/>to believe, yet are ſo far from ſhewing the
+<hi>pro<g ref="char:EOLhyphen"/>found Reſpect</hi> the Writer pretends to, for the Memory of that
+Prince, that being put together, they make up this malicious Character; That a
+King of <hi>England</hi> was guided in his Conduct by a <hi>French</hi>
+Embaſſador; That he made and obſerved his Treaties with ill-meaning, or
+with ill-intentions; and that he treated his chiefeſt Confident (whom he
+makes to be Monſ. <hi>Barillon</hi>) and another Embaſſador, with the
+greateſt ſcorn and con<g ref="char:EOLhyphen"/>tempt.</p>
+                  <p>Beſides, he brings this noble Prince upon the Stage, acting
+a mean piece of Diſſimulation to cover his Confidence with ſo worthy a
+Perſon as Monſ. <hi>de Cros;</hi> 'tis concerning his Diſpatch ſo often
+mentioned into <hi>Holland;</hi> for being forc't to confeſs, that the King
+was angry with him at his return from thence; He plaiſters it up with
+ſaying, p. 25. <hi>If the late King of</hi> England <hi>did not approve of my
+Conduct in the Affairs of</hi> Nimeguen, <hi>which in effect he declared in
+publick not to be pleaſed with, in which he plaid his part to
+admi<g ref="char:EOLhyphen"/>ration,</hi> &amp;c.</p>
+                  <p>But ſince we have ſeen the Character he gives of him as a
+King, let us obſerve how he Treats His Ma<g ref="char:EOLhyphen"/>jeſty as a <hi>Mediator,</hi> and
+how he Repreſents him bal<g ref="char:EOLhyphen"/>lancing the Affairs of <hi>Chriſtendom</hi> then
+in his hands. Firſt, <hi>de Cros</hi> tells us, This Diſpatch of his
+<hi>was con<g ref="char:EOLhyphen"/>certed with Monſieur</hi> Barillon: For tho he ſays, That that
+Ambaſſadour had no had in the beginning of it, yet he owns him in the
+ſame place to <hi>have part of it when it was concluding;</hi> and that
+<hi>Monſieur</hi> de Ruvig<g ref="char:EOLhyphen"/>ny <hi>was diſpatcht by the King with an Account
+of it to the</hi> French <hi>Court the very ſame day that</hi> de Cros
+<hi>was ſent away for</hi> Nimeguen. And <hi>p.</hi> 25. He tells us further,
+That <hi>Prince</hi> Rupert <hi>askt him upon his Return, with a ſtern
+Countenance, If the Peace was concluded? and he an<g ref="char:EOLhyphen"/>ſwering in the
+Affirmative, the Prince cried out, O Diſ<g ref="char:EOLhyphen"/>ſimulation!</hi> And <hi>p.</hi>
+28. he tells us, That the <hi>Prince of</hi> Orange (the Kings Nephew) <hi>writ
+thundring Letters <pb n="14" facs="tcp:36442:8"/>againſt him; and all the Miniſters of
+the Confederates called for Vengeance,</hi> &amp;c. Yet after all theſe Marks
+of ſomething ſo very injurious to the <hi>Allies,</hi> and confi<g ref="char:EOLhyphen"/>dence to
+<hi>France, The King</hi> (ſays he, in the page laſt mentioned) <hi>laughs
+in his Sleeve at the Surprize, at the Sorrow, and Complaints of the
+Confederates.</hi> Which is to give us juſt ſuch a Character of a
+<hi>Mediator,</hi> as he did before of a <hi>King.</hi>
+                  </p>
+                  <p>I leave it to all mens Judgment, whether more vil<g ref="char:EOLhyphen"/>lanous
+Slanders could have been broached abroad by the worſt of this Prince's
+Enemies; and whether it be not a Scandal to our Country, that they ſhould be
+tranſlated and publiſhed in <hi>Engliſh.</hi> But ſince Monſieur
+<hi>de Cros</hi> is ſo bold with the Sacred Memory of a Great King, for which
+he is yet ſo Impudent, as to profeſs <hi>a moſt profound Reſpect;</hi>
+What can a <hi>Subject</hi> expect, for whom he owns ſuch a virulent Malice,
+and to whom he threatens ſuch open Revenge.</p>
+                  <p>The ſame vein of truth and ſincerity ſhines through the
+whole Letter, and the Author's Ingenuity is at the old pitch in what he
+pretends to rake out of the <hi>Me<g ref="char:EOLhyphen"/>moirs</hi> concerning ſeveral Perſons in
+great Employ<g ref="char:EOLhyphen"/>ments; as the D. of <hi>Lauder dale,</hi> the preſent E. of
+<hi>Roche<g ref="char:EOLhyphen"/>ſter,</hi> Sir <hi>Joſeph Williamſon,</hi> Sir <hi>Lionel
+Jenkins,</hi> and Monſ. <hi>Beverning.</hi> This <hi>Conjurer,</hi> in all he
+ſays of them, ſeems reſolved to raiſe up the Spirits of the Dead, to
+joyn with thoſe of the Living in the Quarrel with theſe <hi>Memoirs;</hi>
+and by ſuch diſtorted Conſequences, draws Characters of them, whereof
+there is no Apparition, but what he himſelf raiſes: So that the Characters
+he gives of theſe Perſons by ſuch falſe Deductions for Sir <hi>W.
+T</hi>'s, may juſtly be ſaid to be his own.</p>
+                  <p>But from all I have obſerved in this Letter, I have wonder'd
+at nothing ſo much, as that impudent Va<g ref="char:EOLhyphen"/>nity in the Writer, who endeavours to
+make himſelf and the World believe, that theſe <hi>Memoirs</hi> were
+in<g ref="char:EOLhyphen"/>tended chiefly againſt him, whoſe very name is hardly twice mentioned
+after theſe two Pages in the whole <pb n="15" facs="tcp:36442:8"/>Book, which does not
+pretend to give Characters of Perſons, but only to relate things that were
+done, or words that were ſaid; And the way to have made an anſwer with any
+Juſtice, had been to have laid Excep<g ref="char:EOLhyphen"/>tions either againſt the one, or the
+other, whereof there is not one word in all this <hi>Anſwer without any
+Anſwer.</hi> However, ſo ridiculous is this mans Inſolence, that he
+begins his Letter thus, <hi>I have been informed of the Calumnies that Sir</hi>
+W. T. <hi>hath cauſed to be printed a<g ref="char:EOLhyphen"/>gainſt me.</hi> And p. 7. <hi>He
+ſet upon me firſt, he writes out of a Spirit of Revenge,</hi> &amp;c. The
+ſenſleſs Arrogance of which I cannot think of; but it remembers me of the
+Fly on the Chariot-wheel. For he would fain make it to have been a piece of
+Revenge againſt him, for ha<g ref="char:EOLhyphen"/>ving brought that Diſpatch to the
+<hi>Hague;</hi> and yet he lays it much to heart, that in that Affair he
+ſhould only take him for a <hi>Meſſenger.</hi> And this indeed is to make
+him a very reaſonable perſon, and like a man, that when he receives a blow,
+grows angry with the Stone by which it is given. But by all I can obſerve in
+theſe <hi>Memoirs,</hi> I do not find any thing which bears the leaſt
+reſemblance of Anger or Spleen, much leſs of Revenge againſt Monſ.
+<hi>de Cros;</hi> but ſo far from it, that in the very Paſſage he lays
+moſt to heart, of the Kings calling him <hi>Rogue,</hi> the <hi>Memoirs</hi>
+mention particular<g ref="char:EOLhyphen"/>ly, that His Majeſty ſaid it <hi>pleaſantly,</hi>
+which he him<g ref="char:EOLhyphen"/>ſelf cannot forbear obſerving in his Letter.</p>
+                  <p>Having thus long been conſidering how far he is provok'd,
+and how well he defends himſelf; 'tis time now to ſee how he attacks the
+Perſon whom he fancies his capital Enemy, and how the Play begins. 'Tis then
+in theſe words, <hi>p.</hi> 1. <hi>I know very well that Sir</hi> W. T.
+<hi>is of great worth, and deſerves well, and that he hath been a long time
+imployed, and that too upon important Occaſi<g ref="char:EOLhyphen"/>ons.</hi> This is a piece indeed
+very much of a piece with all the reſt. Now, in the name of wonder, what can
+be the meaning! I wot well enough, what he would be at in all the reſt of his
+Letter; but the Senſe, the Wit, <pb n="16" facs="tcp:36442:9"/>or the Deſign of theſe
+ſweet Lines, is not eaſy to de<g ref="char:EOLhyphen"/>viſe. I confeſs, I ſee a good many
+Plays, and I believe I have read more, but never met before, ſo fair a
+Pro<g ref="char:EOLhyphen"/>logue to ſo foul a Farce. I have read ſomewhere of a Monſter among
+the Ancients, with a Virgins face, and all beſide, a Serpent; which holds
+exact Reſemblance here, unleſs <hi>de Cros</hi> ſhould object againſt
+it, becauſe Serpents have ſtings, and his Letter has none. How<g ref="char:EOLhyphen"/>ever, if we
+will not grant him a <hi>Conjurer,</hi> as he would fain be thought, yet we
+cannot in Conſcience deny him to be a <hi>Jugler,</hi> ſince the firſt
+thing he preſents us with, is meer <hi>ſlight of hand;</hi> For he lays
+down a piece of <hi>Gold</hi> upon the Table, and immediately, <hi>Preſto,
+'tis gone;</hi> and all we can ſee, is only half a dozen Pellets of
+<hi>Dirt.</hi> In ſhort, I am not able to reach what he means by ſo
+whimſical a beginning, and of ſo different a piece from every word that
+follows; unleſs that being reſolved to ſay nothing afterwards, which any
+body would be<g ref="char:EOLhyphen"/>lieve, he thought fit to entertain us at firſt with three Lines
+he is ſure no body doubts.</p>
+                  <p>But, to be ſerious. If Sir <hi>W. T.</hi> be <hi>of great
+worth,</hi> If <hi>de Cros</hi> either believes it himſelf, or would have any
+body elſe to do ſo, why is every word that follows, ſo con<g ref="char:EOLhyphen"/>tradictory to
+theſe? If he <hi>deſerves well,</hi> why is he uſed ſo very ill? Does
+<hi>de Cros</hi> underſtand what a man of <hi>great worth</hi> means? I doubt
+he does not, either by him<g ref="char:EOLhyphen"/>ſelf, or by ſuch Company, as ſo much good
+Language in all the reſt of his Letter, would make us believe he keeps. Can a
+man <hi>of great worth,</hi> and that <hi>deſerves well,</hi> be <hi>Vain,
+Proud, Revengeful, Ungrateful to his Friend, Falſe to his Maſter,</hi> and
+impertinently <hi>Ambitious</hi> in his very Retreat from all Publick Affairs?
+This is indeed a very worthy, and a very lively Character of a Man <hi>of
+worth.</hi> But is not ſuch ſtuff as this, juſt a ſputtering out,
+<hi>Quicquid in Buccam venerit?</hi> Like hot Porridge that burns his Tongue;
+tho 'tis pretty plain, that all his heat proceeds from the overflowing of his
+Gall within, and from nothing without. One would think <pb n="17" facs="tcp:36442:9"/>he
+has very well practiſed the old Rule of <hi>Calumniare fortiter;</hi> yet he
+has lamentably fail'd of the conſequence, <hi>Aliquid inherebit;</hi> for all
+the Dirt he endeavours to fling about, loves its own Element, and ſticks
+cloſe to his own Fingers. I never knew ſo unlucky a Gameſter to throw
+ſo often, and to be always out! What, not one hit! I think the devil's in the
+Dice; however, lets throw again, but firſt we'll change Dice, and if the good
+Morals of this Man of great worth will not paſs, let's try our luck at his
+Naturals. Sir <hi>W. T.</hi> (ſays my Gameſter) <hi>has been often and long
+employ'd;</hi> but he himſelf did <hi>not know about what,</hi> 'twas too,
+<hi>upon very important occaſions,</hi> but he did <hi>not know why,</hi>
+unleſs; becauſe, as <hi>de Cros</hi> tells us, <hi>The King had an
+Averſion for him, and never truſted him,</hi> how often ſoever he
+imployed him. This great Ambaſſador. to ſay the truth, is a very
+<hi>Bubble,</hi> and has as little Wit in ſome parts of the Letter, as
+Honeſty in the other Good Lord, how this ſilly World is apt to be gull'd!
+What a Cheat, and what a Jilt this common Fame is! Who would have believed that
+the Author of the <hi>Obſervations on the</hi> Ne<g ref="char:EOLhyphen"/>therlands, and of the
+charming <hi>Miſcellanea,</hi> ſhould be ſuch a Cully, if <hi>de
+Cros</hi> had not made the diſcovery? but ſure he could never be Author of
+thoſe Books; doubt<g ref="char:EOLhyphen"/>leſs he either hired ſome body to write them for him,
+or elſe ſome honeſt-Bookſeller like his own, had got the Copies, and
+ſet Sir <hi>W. T</hi>'s name to them. <hi>I would to God he had been ſo
+honeſt to ſet mine in the ſtead.</hi>
+                  </p>
+                  <p>But not we have heard the Charge, pray make room for the
+Evidence: Sir <hi>W. T.</hi> is the <hi>proudeſt Man</hi> in the World; and
+what are the proofs, or the Inſtances? Why, <hi>de Cros</hi> ſays it, and
+that's Demonſtration. He is ungrate<g ref="char:EOLhyphen"/>ful to his Friend, and why? Becauſe
+<hi>de Cros</hi> knows it. He is falſe to his Maſter, and the Reaſon's
+plain, <hi>de Cros</hi> pretends to believe it. He is <hi>the moſt revengeful
+of-Men,</hi> for he calls <hi>de Cros</hi> by his <hi>own Name.</hi> He is of
+all men <hi>the moſt Ambitious,</hi> and <hi>never did man deſire more to
+have a hand in Affairs.</hi> This is beyond diſpute, for <hi>de Cros</hi>
+knows his thoughts, and tells us not only what he <pb n="18" facs="tcp:36442:10"/>ſays of
+others, but what he thinks of himſelf, and with equal truth. This is the
+<hi>Conjurer</hi> again, and with a wit<g ref="char:EOLhyphen"/>neſs he tells us further, <hi>p.</hi>
+9. of men <hi>whoſe ruin Sir</hi> W. T. <hi>deſires at the bottom of his
+heart;</hi> where it is not to be queſtioned, but <hi>de Cros</hi> has been;
+and to put it beyond all doubt that he was ſo, he ſays, <hi>p.</hi> 13.
+That <hi>Sir</hi> W. T. <hi>came once to render</hi> him <hi>a viſit at</hi>
+his <hi>Lodging,</hi> and that <hi>Monſ.</hi> Olivencrants <hi>the</hi>
+Swediſh <hi>Ambaſſador, was then at</hi> his <hi>Houſe,</hi> which
+gives me a ſcruple, that the viſit might be meant to <hi>him,</hi> rather
+than to Monſ. <hi>de Cros.</hi> However this is all the inſtances I find of
+his Acquaintance with a Perſon whoſe heart he pretends to know ſo well,
+and with whom by all the reſt of his Letter, I ſhould be apt to judge he
+was the leaſt acquainted with, of any man in the World. But to cloſe all
+theſe Generals before we come to particulars; he tells us, <hi>p.</hi> 29. he
+knows ſome<g ref="char:EOLhyphen"/>thing of Sir <hi>W. T.</hi> upon the Subject of what paſſed
+be<g ref="char:EOLhyphen"/>tween him and my Lord <hi>Arlington, that makes</hi> his <hi>hair ſtand an
+end.</hi> Alas, the poor Gentleman's in an Agony! Bleſs us all from
+ſprights! what a puny Conjurer is this! to raiſe a Spirit that ſcares no
+body elſe, and run into a hole for fear of it himſelf: He has formed ſo
+terrible an Image of Sir <hi>W. T.</hi> in his own little working Noddle, that
+he knows not were he is, nor what he does, but is all in a maze. However, this
+I am certain, that no man alive who has read the reſt of <hi>de Cros</hi>'s
+Letter, but will allow him to be one, that if he knew any thing ill of Sir
+<hi>W. T.</hi> would at leaſt be ſure not to tell it; we have his own word
+for it, p. 7. <hi>My deſign is not at all, my Lord, to write you a Letter
+full of Invectives againſt Sir</hi> W. T. And in another place, <hi>That</hi>
+(ſays he) <hi>would not be like a Gentle<g ref="char:EOLhyphen"/>man.</hi>
+                  </p>
+                  <p>But yet to give him his due, and as he ſays, p. 7. <hi>To
+let everybody ſee</hi> he <hi>has means in</hi> his <hi>hands to be
+revenged;</hi> there is one point, and that alone, where he brings his Proof,
+lays downs his Inſtance, and that out of the <hi>Memoirs</hi> themſelves;
+'tis deſigned undeniably to convince the World of Sir <hi>W. T</hi>'s Vanity,
+of which he could give <hi>my <pb n="19" facs="tcp:36442:10"/>Lord</hi> many inſtances,
+but at preſent contents himſelf with one, and 'tis a thumping one. 'Tis the
+following Period, which I ſhall quote out of the <hi>Memoirs,</hi> a little
+more faithfully than he does in his Letter, which I was ſo curious to
+obſerve, by thinking the word <hi>[Clutches]</hi> to be no part of Sir <hi>W.
+T</hi>'s ſtile, and found he had taken a great deal of pains, to wreſt it
+as much as he could to his turn. It runs thus, <hi>Mem.</hi> p. 30. <hi>This I
+ſuppoſe gave ſome occaſion for my being again deſigned for this
+Ambaſſy, who was thought to have ſome credit with</hi> Spain <hi>as well
+as</hi> Holland, <hi>from the Negotiations I had formerly run through at
+the</hi> Hague, Bruſſels, <hi>and</hi> Aix la Chapelle, <hi>by which the
+remaining part of</hi> Flanders <hi>had been ſaved out of the hands of</hi>
+France <hi>in the year</hi> 1668. Now for my own part, I muſt confeſs my
+ſelf ſo giddy a Reader, and of ſo much inad<g ref="char:EOLhyphen"/>vertency, that when I read
+that Paſſage, I took it for a ſingular piece of Modeſty, ſince the
+Author gives for a Reaſon, why the King choſe him for his ſecond
+Ambaſſy in <hi>Holland,</hi> becauſe he had been formerly employed in
+thoſe Countries, and not for any Perſonal Merit in him<g ref="char:EOLhyphen"/>ſelf; but <hi>de
+Cros</hi> is ſo great a Stranger to Modeſty, that we cannot blame him for
+not knowing it when he meets it; and ſince he has no other Accuſations of
+this kind, I muſt profeſs, I can diſcover nothing of Vanity in the whole
+<hi>Series</hi> of all thoſe Relations, nor can reckon for ſuch, the
+Author's not avoiding to ſpeak of him<g ref="char:EOLhyphen"/>ſelf any more than of other Perſons
+(when it came in his way) who had ſo great and ſo continual a part in the
+whole Courſe of that Story. In his other Works this Author I am ſure makes
+little mention enough of him<g ref="char:EOLhyphen"/>ſelf; and it were to be wiſht that Perſons
+ſo much em<g ref="char:EOLhyphen"/>ploy'd in publick Buſineſs, would tell all their own Parts as
+well others Mens, and as nakedly as he ſeems to do in theſe
+<hi>Memoirs.</hi>
+                  </p>
+                  <p>But the reaſon <hi>de Cros</hi> gives us, why he would have
+the World believe him in all he ſays againſt Sir <hi>W. T.</hi> is,
+Becauſe he is firſt attackt, and thereupon in great Paſſion and Rage,
+which will paſs for an admirable Argument, <pb n="20" facs="tcp:36442:11"/>that he
+deſigns to ſpeak nothing but truth, and for a very cunning way of being
+believed; tho ſome men per<g ref="char:EOLhyphen"/>haps may think, that whatever is ſaid in
+Paſſion, is but juſt ſo much of <hi>nothing to the purpoſe,</hi> and
+that it com<g ref="char:EOLhyphen"/>monly makes a man in what he ſays or does, not only as peeviſh
+as a Waſp, but as blind as a Beetle. But if he will believe right or wrong,
+why will not he believe in his turn? And why is not he contented to
+<hi>Give</hi> as well as to <hi>Take?</hi> He will not allow that Sir <hi>W.
+T.</hi> might ſeve<g ref="char:EOLhyphen"/>ral times have been Secretary of State, when Mr.
+<hi>Mon<g ref="char:EOLhyphen"/>tague,</hi> and Mr. <hi>Sydney,</hi> who are named (in <hi>Memoirs
+p.</hi> 
+                     <gap reason="blank" resp="#OXF" extent="1+ letters">
+                        <desc>_…</desc>
+                     </gap>) to have been ſet on him by
+the Lord <hi>Arlington</hi> at that time to perſuade him to accept it, are
+ſtill alive, as well as my Lord Treaſurer, who is mentioned, <hi>Mem.
+p.</hi> 273. to have written to him by His Majeſty's Com<g ref="char:EOLhyphen"/>mand to come over
+and enter on the Secretaries Office. And <hi>p.</hi> 385. 'tis further added,
+That Sir <hi>W. T.</hi> re<g ref="char:EOLhyphen"/>ceived the <hi>King's own Orders to come immediately
+over, and enter upon that Office, and to acquaint the Prince and States with
+that Reſolution;</hi> which muſt of courſe have come to him through my
+Lord <hi>Sunderland</hi>'s hand, who <hi>Mem. p.</hi> 387. is ſaid to have
+been brought into Sir <hi>Jo<g ref="char:EOLhyphen"/>ſeph Williamſon</hi>'s place, and his
+Lordſhip being likewiſe ſtill alive, can eaſily tell, whether this be
+true or no. Therefore, why does not <hi>de Cros</hi> himſelf, or ſome
+Friend for him (if he has any) enquire into the truth of theſe Paſſages
+which are told ſo poſitively, and wherein ſo many parties concern'd are
+ſtill alive, tho moſt of them with other Titles. And indeed, tho it may be
+ill for Sir <hi>W. T</hi>'s private Satisfaction, that theſe <hi>Memoirs</hi>
+were printed againſt his Conſent, and during his Life, which it appears was
+never intended; yet nothing could de<g ref="char:EOLhyphen"/>fend the Truth of them ſo much, as that
+ſo many Per<g ref="char:EOLhyphen"/>ſons are yet alive, who had ſo great a part in all thoſe
+Affairs there related, who are the beſt and moſt com<g ref="char:EOLhyphen"/>petent Judges of the
+Truth; and I never heard that any of them have yet contradicted the leaſt
+part. But however, ſince the <hi>Monk</hi> has got into the <hi>Infallible 
+<pb n="21" facs="tcp:36442:11"/>Chair,</hi> he muſt be believed, there is no help, and we
+muſt like the <hi>Welſh-man, Take her own word for it.</hi> And ſo let
+him go away with all thoſe appoſite and choice Epithets he has given of
+this <hi>moſt worthy</hi> and <hi>well-deſer<g ref="char:EOLhyphen"/>ving</hi> perſon, without
+where, or when, or why, or where<g ref="char:EOLhyphen"/>fore; For I am ſure there is no way of
+replying to them; and he that would ſet about it, might as well reſolve to
+write an Anſwer to a Leaf in <hi>Textor</hi>'s Epithets.</p>
+                  <p>And thus I have with much ado rid my hands of a great part of
+<hi>De Cros</hi>'s Rubbiſh, as far as it endeavours to beſpatter Sir <hi>W.
+T.</hi> in his Morals and Intellectuals. It remains now I ſhould obſerve a
+little what he ſays con<g ref="char:EOLhyphen"/>cerning his Fortunes, which ſeems to turn upon
+theſe two ruſty Hinges, that make as ill a noiſe as all the reſt; the
+obſcurity from whence he was raiſed to all thoſe great Employments, and
+his diſgrace upon leaving them, which <hi>De Cros</hi> ſays was immediately
+after his Return from <hi>Nimeguen.</hi>
+                  </p>
+                  <p>For my own part I muſt confeſs I am neither did e<g ref="char:EOLhyphen"/>nough,
+nor have had Converſation in Courts, and with Publick Affairs, to give an
+account how Sir <hi>W. T.</hi> came into Buſineſs, or how he went out, any
+further than I could gather from Writings and Tranſactions which are publick
+and known to every body; or by particular en<g ref="char:EOLhyphen"/>quiries from ſome Friends and
+Acquaintance of my own; and it has happened, that ſome of them have long
+known ſo much of that Family, as to aſſure me it is a very An<g ref="char:EOLhyphen"/>cient one:
+That Sir <hi>W. T.</hi> was born of a very Honour<g ref="char:EOLhyphen"/>able Father, who was for many
+years of the Privy Coun<g ref="char:EOLhyphen"/>cil in <hi>Ireland</hi> to King <hi>Charles</hi> the
+Firſt, and King <hi>Charles</hi> the Second, and was long poſſeſſed
+of one of the beſt Of<g ref="char:EOLhyphen"/>fices in that Kingdom, both for Honour and Profit; as
+likewiſe in his time a Member of ſeveral Parliaments in <hi>England:</hi>
+That his two younger Brothers are known to have lived always with plentiful
+Fortunes, and in much eſteem: So that this Gentleman alone ſeems to have
+been born under the unluckieſt Planet in the world, tho Heir to his Father's
+Fortune, and Succeſſor to his <pb n="22" facs="tcp:36442:12"/>Office, which was ſo
+conſiderable; yet he only of all his Family, was <hi>in Obſcurity,</hi> and
+<hi>lay in the Duſt</hi> (for ſo the <hi>French</hi> Letter has it) till my
+Lord <hi>Arlington</hi> raiſed him out of both; whoſe beams it ſeems were
+ſo refulgent, as to make him ſhine at that diſtance his Foreign
+Employ<g ref="char:EOLhyphen"/>ments carried him to. My Friends have likewiſe aſſured me from
+their own remembrance and knowledge, that Sir <hi>W. T.</hi> ſhined as much
+in a Parliament of <hi>Ireland</hi> ſoon after the King's Reſtoration, as
+<hi>De Cros</hi> ſays he ſhined long in his Employments abroad; and this
+was ſeveral years before he came into any Foreign Employments. They told me
+likewiſe that he was very eaſy in his For<g ref="char:EOLhyphen"/>tune, not only by what he had
+from his <hi>Father,</hi> but from his <hi>Lady,</hi> to whom God be thanked
+(and it is very hap<g ref="char:EOLhyphen"/>py for her Ladyſhip that) <hi>De Cros</hi> ſays, he has
+no Quarrel. By all which, and the many Employments he ſince paſſed
+through, and of which in one of his Eſſays he ſays, he <hi>never ſought
+any;</hi> in my weak conception I ſhould think he was a perſon, that by the
+Circumſtances of his Humour and his Fortune, needed the Court leſs than the
+Court needed him.</p>
+                  <p>As to his going out from Publick Employments, which <hi>De
+Cros</hi> tells us was upon <hi>the King's being ſo ill ſatisfied with his
+Conduct and Management of Affairs abroad, parti<g ref="char:EOLhyphen"/>cularly thoſe at</hi>
+Nimeguen; that <hi>he ſlighted him upon his re<g ref="char:EOLhyphen"/>turn from thence, and made
+very little uſe of him.</hi> I can give no other Account beſides what I
+find of the Time and the manner in the <hi>Epiſtle</hi> before the
+<hi>Memoirs;</hi> on<g ref="char:EOLhyphen"/>ly I find, by comparing the Date of his Return from
+<hi>Nimeguen,</hi> with that of King <hi>Charles</hi>'s Declaration upon his
+diſſolution of the old Council, and ſelecting a new one, that Sir <hi>W.
+T.</hi> was a Member of that new and ſelect Council; and it was the Common
+Town-talk at that time, that this Declaration was writ by him, and that he was
+in his Majeſty's Chief Confidence upon that ſur<g ref="char:EOLhyphen"/>priſing Reſolution,
+which was received with ſuch Ap<g ref="char:EOLhyphen"/>plauſes, Bonfires, and other
+expreſſions of Joy in the Ci<g ref="char:EOLhyphen"/>ty. Beſides all this, having had ſome
+acquaintance among <pb n="23" facs="tcp:36442:12"/>
+                     <hi>Spaniſh</hi> Merchants in Town, I
+came to know, that ſeve<g ref="char:EOLhyphen"/>ral of them about two years after, had recourſe to
+Sir <hi>W. T.</hi> upon his being then declared Ambaſſador Extraordi<g ref="char:EOLhyphen"/>nary
+to the Crown of <hi>Spain,</hi> by the King at Council, whereof he himſelf
+was then a Member. All which laid together, does moſt abundantly verifie what
+<hi>De Cros</hi> ſays of his being diſgraced upon his return from
+<hi>Nime<g ref="char:EOLhyphen"/>guen.</hi> But the beſt account of all theſe Paſſages we
+muſt expect whenever he will think fit to publiſh the firſt and third
+part of the <hi>Memoirs,</hi> which are mentioned at the beginning and end of
+thoſe the world has ſeen already. In the mean time, what little has
+happened to fall in the way of my knowledge or enquiries, may be enough to
+diſcover the impudent Forgery of this falſe Coyner, who pretends to
+counterfeit all ſorts of Metals, but is ſo wretched a bungler, and performs
+it ſo groſly, that not one of them will paſs. 'Twas for this Reaſon, I
+ſuppoſe, that the <hi>French</hi> Edition of his Letter pretends to have
+been printed at <hi>Cologne,</hi> which I have long-obſerved to be the Common
+Forge, or at leaſt the Common Form of Paltry, Scurrilous Libels, printed in
+that Language; and which no Printer or Bookſeller abroad dare ſet their
+Names to. This I cannot but mention for the Credit and Reputation of his
+honeſt Stationer at the <hi>Mitre,</hi> who I believe is the only Stationer
+in <hi>England</hi> would have had the ingenuity to ſet the <hi>Mitre</hi> on
+this <hi>Monk's</hi> Head.</p>
+                  <p>The laſt precious piece of his Malice I ſhall take no<g ref="char:EOLhyphen"/>tice
+of, is That he grudges Sir <hi>W. T.</hi> even the Honour of his Retreat from
+Publick Affairs, by which perhaps he has been more diſtinguiſhed, than by
+his greateſt Em<g ref="char:EOLhyphen"/>ployments: But this <hi>De Cros</hi> cannot allow him: No,
+ſaye he, <hi>p.</hi> 8. <hi>It was not what he would make us believe; his
+love for his own eaſe, and his indiſpoſitions of body, that made him
+decline his Employments.</hi> Alas! what a ſad Fate that man falls under,
+that dares incur the diſpleaſure of Monſ. <hi>De Cros?</hi> or who can
+tell what will become of him? He muſt neither live at Court, nor at his own
+Houſe, in pub<g ref="char:EOLhyphen"/>lick <pb n="24" facs="tcp:36442:13"/>Buſineſs, nor out of it; In Town,
+nor in Country: where ſhall we find a place for him? I know none but the
+middle Region of the Air: But, <hi>It was not his love for his own Eaſe,</hi>
+&amp;c. <hi>that made him decline his Employ<g ref="char:EOLhyphen"/>ments.</hi> Why? whoever informed
+this Conjurer it was? I am ſure the <hi>Memoirs</hi> ſay no ſuch thing,
+but in the laſt Page gives us a quite different account; where, telling his
+Reaſons why he excuſed himſelf, at his return from <hi>Nimeguen,</hi>
+from entring upon the Secretaries Office, are theſe Words: <hi>I that never
+had any thing ſo much at heart as the union of my Couutry, which I thought
+the only way to its greatneſs and felicity was very unwilling to have any
+part in the diviſions of it.</hi> And towards the end: <hi>After almoſt two
+years unſucceſsful endeavours at ſome <g ref="char:V">Ʋ</g>nion, or at leaſt ſome allay
+of the Heats and Diſtempers between the King and his Parliaments, I took the
+Reſolution of having no more to do with Affairs of State.</hi> Which
+Reſolution it ſeems was taken about the beginning of the Year 1681. when he
+ſent the King word he <hi>would paſs the remainder of his life like as good
+a private Subject as any he had,</hi> &amp;c. as is to be ſeen in the
+Epiſtle. Yet for all this Monſ. <hi>De Cros,</hi> who knows his thought
+better than himſelf, or than his Actions can inform us, ſays, <hi>Never did
+man deſire more to have a hand in Affairs.</hi> Why here he ſhews us the
+ſilly <hi>Bubble</hi> again, and the wiſe way he takes to fulfil this
+im<g ref="char:EOLhyphen"/>patient Deſire; 'Tis by going to his Houſe in the Coun<g ref="char:EOLhyphen"/>try, where he
+ſtays five years, as he tells us in one of his Eſſays, without ſo much
+as ever ſeeing the Town: and ſince (as I am inform'd) to avoid ſo much
+Reſort at that ſmaller diſtance from the City, he goes to another of his
+Houſes of a much greater in the Country; which was an admirable wiſe
+Contrivance to ſatisfie his Longings to get again into Buſineſs: Truly I
+my ſelf could have helpt him to a Better: For could he not like other men of
+ſuch a craving Kidney, have ſtill buzzed about the Court, knocked at every
+dore there, and when one was deaf and would not open, go to another; and at the
+worſt have grown ſo troubleſome, that ſome body <pb n="25" facs="tcp:36442:13"/>would at laſt bring him into Employment; tho it were but to be rid
+of him? Or, if this Contrivance had failed, he might have herded among the
+Factious and Diſcon<g ref="char:EOLhyphen"/>tented about the Town, gone to the Coffee houſes,
+railed at the Miniſters, and quarrelled with the Govern<g ref="char:EOLhyphen"/>ment, till they would
+be glad to have hired him at the expence of an Employment to hold his Tongue:
+And I am ſure if he talks as well as he writes, he might very well have gone
+this way to work, and with as much likelihood to ſucceed as <hi>Others have
+done, on pretend to do.</hi> Tho a Common Reader would be apt to think the
+Author of theſe <hi>Memoirs</hi> might have found ſome other ways, either
+of preſerving himſelf in Buſineſs, or of get<g ref="char:EOLhyphen"/>ting in when he was out;
+at leaſt in ſo eaſy a Court as that of King <hi>Charles</hi> the Second's
+is taken to have been. Or if theſe Endeavours had miſcarried, he might yet
+have made ſome ſhift or other to have obtained his Deſire upon ſuch a
+Revolution as has ſince happened; and he is very much wronged by the common
+Voice of the Town, if he has not found it as hard to excuſe him<g ref="char:EOLhyphen"/>ſelf from
+entring into Publick Employments in this Reign, as in that of the late King
+<hi>Charles.</hi>
+                  </p>
+                  <p>For my own part, I can profeſs with the greateſt Truth in
+the world, That before this Libel of <hi>De Cros,</hi> I have never met with in
+all my converſation and Read<g ref="char:EOLhyphen"/>ing, with the leaſt Reproach from any man
+againſt Sir <hi>W. T.</hi> except it be in one point; Of his having made too
+raſhly, or kept too obſtinately, his Reſolution, Never to enter again
+into Publick Employments; eſpecially ſince he lives in an Age where ſuch
+perſons as he ap<g ref="char:EOLhyphen"/>pears to be by his Writings, might be of ſo uncommon uſe
+and Advantage to his Country: This I cannot but own, I have often heard laid,
+and that ſomewhat warmly, to his charge, and muſt leave it to himſelf to
+clear it as he can. But however, <hi>De Cros</hi> it ſeems knows his thoughts
+beſt, and muſt be believed in all he ſays upon this Point, as well as the
+reſt: And I only wiſh, ſince the Spark is <pb n="26" facs="tcp:36442:14"/>ſo good
+at finding out what other men think, that he would take the pains to learn for
+his comfort what all men think of him: One thing I am ſure is, that with all
+the Bloaches of his dirty Pencil, he has daub'd up a Picture of Sir <hi>W.
+T.</hi> which has top-fil'd the meaſure of all Forgery; <hi>Sed Vetitum nihil
+eſt ſcheleri,</hi> and which is as true and like the Original, as a man
+would make of this Dauber, if he ſhould ſay, <hi>De Cros</hi> were a very
+ho<g ref="char:EOLhyphen"/>neſt, worthy, well-natur'd, well-bred, fait-ſpoken, plain-dealing,
+ingenious Writer; of excellent Morals, wondrous Wit, and exact Truth.</p>
+                  <p>And now I have done with him, I can hardly anſwer it to my
+ſelf why I ever began, or why I went about to foul my fingers with ſuch a
+Subject: I am ſure nothing could have forced me but an irreſiſtible
+Impulſe, and ſome natural love I bear to Vertue, to Learning, and to Truth;
+of all which I find ſo great a ſhare in this Ho<g ref="char:EOLhyphen"/>nourable perſon's
+Writings, which I have read ſo of<g ref="char:EOLhyphen"/>ten, and with ſo much pleaſure; and
+from which I can<g ref="char:EOLhyphen"/>not but confeſs to have learnt more than from all other
+Books I have read in my life; which I ſay after much greater and better
+Readers than my ſelf, and yet I have been a great Porer too. All this would
+not ſuffer me to let <hi>De Cros</hi>'s Libel paſs without theſe
+Reflections; for as to any regular Reply, it could no more be made to this,
+than to a Paper that comes with a very fair Su<g ref="char:EOLhyphen"/>perſcription, and
+ſubſcribed by ſome <hi>Worſhipful Name,</hi> but had nothing clear
+through, beſides long unſightly Scrawls and foul Blots with a Pen; and ſo
+intended for ſome ſuch flam as your Twelve-Penny Writers uſe to gull
+thoſe idle people with, that buy up all Pamphlets they meet: And ſince I
+have confeſs'd my ſelf ſuch a Cuſtomer, 'tis but juſtice I ſhould
+be laughed at in my turn.</p>
+                  <p>After all I have writ upon this Subject, I cannot but think my
+Ink has been too white all this time; however, I have Gall enough about me to
+make it blacker at ano<g ref="char:EOLhyphen"/>ther, <pb n="27" facs="tcp:36442:14"/>if ever the fit of Scribling
+ſhould take me again; which may very well be, when I meet with another
+Au<g ref="char:EOLhyphen"/>thor of ſo little <hi>Wit,</hi> ſo little <hi>Memory,</hi> and ſo
+little <hi>Truth</hi> as <hi>De. Cros.</hi> 
+                     <q> 
+                        <l>
+                           <hi>— Melius non tangere, Clamo,</hi>
+                        </l> 
+                        <l>
+                           <hi>Flebit, &amp; inſignis tota cantabitur
+<g ref="char:V">Ʋ</g>rbe.</hi>
+                        </l>
+                     </q>
+                  </p>
+                  <p>As to the candid Tranſlator, I cannot forbear doing him the
+Juſtice to give him that part which he deſerves, and belongs to him in all
+I ſaid of <hi>De Cros,</hi> for his ſhare in the Letter, by ſo falſe,
+and ſo malicious a Tranſlation; nor can refuſe him my approbation for a
+worthy Tranſ<g ref="char:EOLhyphen"/>lator to ſo worthy an Author; wherein he has taken the ſame
+pains a man would do in ſmutting over a Chimny-Sweeper, or blacking over a
+Crier of Smalcoal. Which is all I ſhall ſay of him.</p>
+                  <p>But, for the <hi>Advertiſer,</hi> as his Stile is much
+fairer, and conſiſts moſtly of Criticiſms, ſo he will deſerve no
+other than very fair and critical Reflections. Yet I cannot but wonder, that in
+the firſt part of his Advertiſement, he ſhould go about to defend the
+<hi>ſevere or indecent Lan<g ref="char:EOLhyphen"/>guage</hi> (as he calls it) in <hi>De Cros</hi>'s
+Letter: Which ſure, nothing could do towards a perſon who has ſo often
+repreſented a great King, whatever his own Merits or Demerits might have
+been. I am alſo ſomething at a loſs what he ſhould mean by ſlandering
+<hi>De Cros</hi> with ſuch a Title as that of, <hi>The Ingenious Author of
+the forego<g ref="char:EOLhyphen"/>ing Letter.</hi> For doubtleſs if the Man has any Wit, I may ſay
+of it as one did of a Gentleman's Courage, which another had much commended;
+That <hi>he might have courage for ought he knew, but he had as live be damn'd
+as ſhew it.</hi>
+                  </p>
+                  <p>The reſt of his gentle <hi>Advertiſement</hi>
+conſiſts, (as he pleaſes to call it) of <hi>the Sentiments of the
+Criticks upon theſe Memoirs when they firſt came out.</hi>
+                  </p>
+                  <p>
+                     <pb n="28" facs="tcp:36442:15"/>The firſt whereof is, That <hi>The Stile
+was too luſcious and affected.</hi> I confeſs I am not acquainted with that
+Term of <hi>a Luſcious Stile,</hi> and cannot eaſily ſtumble up<g ref="char:EOLhyphen"/>on what
+it means, unleſs it be to ſay, That the Bride is too fair, or the Grapes
+are too ſweet. But 'tis yet harder for my poor Conception to find out how a
+Stile can be both <hi>Luſcious</hi> and <hi>Affected;</hi> Which latter I
+ſhould have otherwiſe miſtook for a Quality that had ever given a
+harſhneſs to any Stile, that would not be very conſiſtent with
+<hi>Luſcious:</hi> And <hi>Tacitus</hi> has not eſca<g ref="char:EOLhyphen"/>ped the Imputation of
+being both harſh and <hi>Affected,</hi> by ſeveral <hi>Criticks.</hi> I am
+afraid the Gentleman's Mouth might have been a little out of taſte by reading
+theſe <hi>Memoirs;</hi> and <hi>that</hi> might poſſibly have proceed<g ref="char:EOLhyphen"/>ed
+from ſome cholerick Humour redundant in his Sto<g ref="char:EOLhyphen"/>mach; which I the rather
+ſuſpect from theſe words in the beginning of his Advertiſement; <hi>As
+nothing more ſenſibly touches</hi> US, <hi>than no have our
+Reputation,</hi> &amp;c. which ſeem to inſinuate, that he took himſelf
+for one of the Perſons he thought offended by them, and <hi>treated with too
+much Freedom, and too little Ceremony;</hi> as he after<g ref="char:EOLhyphen"/>wards ſpeaks of
+others. But if Sir <hi>W. T</hi>'s Stile be faul<g ref="char:EOLhyphen"/>ty, I have nothing to ſay;
+only deſire, That ſome of the <hi>Criticks</hi> the <hi>Advertiſer</hi>
+ſpeaks of, will be ſo kind to mend it when they write next, whereby I think
+they will do a very great Honour to our Language. I am only ſorry for thoſe
+poor Bookſellers who have ſo raſh<g ref="char:EOLhyphen"/>ly undertaken the printing of his
+ſeveral Works, and wiſh they may not be undone after the Judgment of
+theſe ſevere <hi>Criticks</hi> upon them. Yet to give them a little
+comfort, I muſt needs take notice, that all men are not of the ſame nice
+Palat, neither at home nor a<g ref="char:EOLhyphen"/>broad: For Monſieur <hi>Wiquefort</hi> concludes
+his <hi>Memoirs of Ambaſſadors,</hi> with regretting that there had been
+ſo few Accounts given by any of them of Foreign Coun<g ref="char:EOLhyphen"/>tries; and that there
+were like to be fewer hereafter; <hi>Becauſe Monſieur</hi> Temple <hi>is
+inimitable in what he has <pb n="29" facs="tcp:36442:15"/>written of the United</hi>
+Netherlands. And among ma<g ref="char:EOLhyphen"/>ny Books and Pamphlets that mention his Works, I have
+yet ſeen none that does it without great Value and Approbation. I am ſure
+in all the <hi>French</hi> Editions of his ſeveral Works (which have had the
+luck to be ſtill Tranſlated into ſeveral Languages as they came out) the
+Epiſtles and Prefaces prefixed before them, are full of the greateſt Honour
+and Applauſe that can be given to Writings, which paſs ſo ill with the
+<hi>Cri<g ref="char:EOLhyphen"/>ticks,</hi> this Advertiſer tells us of at home; ſo that 'tis
+poſſible ſome of theſe <hi>Memoirs</hi> may yet go off, which I
+ſuppoſe was the chief thing intended by him that publiſht them.</p>
+                  <p>However, let ſuch Stateſmen as <hi>de Cros,</hi> or ſuch
+<hi>Cri<g ref="char:EOLhyphen"/>ticks</hi> as our <hi>Advertiſer,</hi> or Malice and Detraction it
+ſelf, ſay what they will of the <hi>Memoirs;</hi> I dare anſwer for all
+Scholars and Lovers of Learning, that they ſhall pay the Honour and Eſteem
+which is, and will be ever juſtly due to the <hi>Miſcellanea;</hi> and
+ſhall not only find what is pleaſing and inſtructing, but alſo
+ſomething that is new and ſurprizing whenever they read them, let this
+Author's Stile be as <hi>Luſcious</hi> and <hi>Affected</hi> as it will;
+which is all I need ſay for the poor Bookſel<g ref="char:EOLhyphen"/>ler's ſake.</p>
+                  <p>The ſecond Criticiſm the Advertiſer mentions, is up<g ref="char:EOLhyphen"/>on
+the Digreſſions, tho he is ſo good to confeſs himſelf not of their
+Opinion who find ſault with them. But I wiſh he had made a fairer Quotation
+in a Line or two out of one of them, by which he would ſeem to make Sir
+<hi>W. T.</hi> ſay, That <hi>Prince</hi> Maurice's Parrot ſpoke, and askt,
+and anſwered common Queſtions like a reaſonable Creature: Tho indeed he
+only ſays, That his <hi>curioſity made</hi> him <hi>enquire from the
+firſt hand about ſuch a common Story, Of a Parrot that ſpoke,</hi>
+&amp;c.</p>
+                  <p>For my ſelf, I muſt needs ſay, That that Digreſſi<g ref="char:EOLhyphen"/>on
+gave me not only ſome Entertainment when I read it, but a good deal of
+thought ſince; and the more, <pb n="30" facs="tcp:36442:16"/>becauſe I remember one of
+the <hi>Athenian Mercuries,</hi> in Anſwer to a Queſtion ſent them upon
+this very Story, ſeem'd to allow the thing poſſible. But after all my
+rambling thoughts upon that Subject, I muſt leave it to better Reaſoners
+than my ſelf to determine, whe<g ref="char:EOLhyphen"/>ther Speech and Reaſon are ſo individual,
+that what<g ref="char:EOLhyphen"/>ever Creature has any ſhare in the one, muſt be al<g ref="char:EOLhyphen"/>low'd to
+partake of the other. However it be, the Letter I have been lately obſerving,
+has throughly convinc'd me, that whether a Man may <hi>Speak</hi> or no, at
+leaſt he may <hi>Write</hi> without <hi>Reaſon.</hi> But this I am ſure
+is a Digreſſion in me, whatever it was in the Author of the
+<hi>Memoirs.</hi>
+                  </p>
+                  <p>The laſt <hi>Criticiſm</hi> the <hi>Advertiſer</hi>
+mentions, is, That <hi>in theſe</hi> Memoirs <hi>there are ſeveral
+Perſons, Emi<g ref="char:EOLhyphen"/>nent both for their Station and Quality, and ſome of them
+ſtill alive, treated with ſo much Freedom, and ſo little Ceremony.</hi>
+This in my ſlender Judgment, ap<g ref="char:EOLhyphen"/>pears a more extraordinary Objection, than
+the other two. For I had ever imagined, that the very <hi>Ratio formalis</hi>
+of a good Hiſtory, or Memoirs, had been the <hi>Truth</hi> of them, which it
+is impoſſible ſhould ever appear without <hi>great Freedom,</hi> and
+little Ce<g ref="char:EOLhyphen"/>remony, either to the Perſons they repreſent, or concerning the
+Actions they relate. And this in my Opinion, gives the great and general
+Eſteem that is deſervedly put upon the Memoirs of <hi>Philip de
+Comi<g ref="char:EOLhyphen"/>nes,</hi> whoſe Stile ſeems very mean and vulgar, but his
+<hi>Freedom</hi> great, and <hi>Ceremony</hi> very little, either with thoſe
+two Great Princes that were his Maſters, or in any Account he gives of
+Actions, or of Perſons, tho many of theſe were probably alive at the time
+of Writing or Publiſhing theſe <hi>Memoirs.</hi> But in truth ſince his
+time, his Method has been very little pur<g ref="char:EOLhyphen"/>ſued, and more is the pity, ſince
+it has made ſo much room, and ſo unworthily, for the fulſome Flatteries, 
+<pb n="31" facs="tcp:36442:16"/>and nauſeous Panegyricks of ſo many Books or Pre<g ref="char:EOLhyphen"/>faces
+as have over-run the Preſs in our Age; which not only endeavour to put Shams
+and Cheats up<g ref="char:EOLhyphen"/>on Mankind; but are, I doubt, of great Miſchief to the
+Intereſts and Concernments of thoſe Countries where they grow. For let the
+<hi>Criticks</hi> ſay what they pleaſe againſt writing Story with <hi>too
+much Freedom,</hi> and <hi>too little Ceremony,</hi> I am a little diſpoſed
+to be<g ref="char:EOLhyphen"/>lieve, That if there were more ſuch <hi>Authors,</hi> there would not
+be ſo many ſuch <hi>Actors,</hi> as have been ſo often ſeen upon the
+Publick Stages of the World; who, like Rooks when they are gotten to the
+Top<g ref="char:EOLhyphen"/>branches of great Trees, think only of building their own Neſts as high
+as they can, and feathering them as well as they can, without any care how the
+Tree thrives under them, or whether by their Muting and Fluttering about, they
+ſpoil the Branches and Leaves of that Tree it ſelf where they were bred, or
+found ſhelter. Peradventure ſuch Actors would not have plaid ſuch Parts
+upon the Stage, if they had not truſt<g ref="char:EOLhyphen"/>ed to the Diſguiſes and Masks they
+were in, or had ſuſpected they would be pull'd off by ſome <hi>plain,
+rough hand,</hi> either while the Play laſts, or as ſoon as 'tis ended. For
+men are ſeldom ſo harden'd, as to grow totally careleſs of their Names,
+and their Memories, after they are dead, tho they may hope to eſcape while
+they are alive.</p>
+                  <p>For theſe and ſome other ſuch trivial Reaſons, I
+muſt profeſs, I cannot joyn heartily with the <hi>Criticks</hi> in this
+laſt Objection; but ſhall be very glad to joyn with the Advertiſer in
+believing, or at leaſt in wiſh<g ref="char:EOLhyphen"/>ing, that Sir <hi>W. T.</hi> would be
+prevailed with by the Let<g ref="char:EOLhyphen"/>ter, or this Advertiſement, to take ſome notice
+him<g ref="char:EOLhyphen"/>ſelf either of the one, or the other, which might poſſibly make the
+Preſs ſome amends for this Scribble of mine; at leaſt it would me, who
+ſhould think my <pb n="32" facs="tcp:36442:17"/>ſelf very well rewarded by it. For
+whatever Paſſion <hi>de Cros,</hi> or the <hi>Advertiſer,</hi> or any of
+thoſe US's he ſpeaks of in the beginning of his ſhort Paper, may have
+againſt the Author, I ſhall ever have as much Paſ<g ref="char:EOLhyphen"/>ſion for his
+Writings. And as for this of my own, I pretend to no more, than to be forgiven
+by him and other Men, becauſe it is my firſt Eſſay, and for ought I yet
+know, it may be my laſt.</p>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:36442:17"/>
+                  <p>REFLECTIONS UPON AN ANSWER TO THE Letter from Monſ. <hi>De
+Cros.</hi> Pretended to be written by the Au<g ref="char:EOLhyphen"/>thor of the <hi>Memoirs.</hi>
+                  </p>
+                  <p>By a Lover of Truth.</p>
+                  <p>
+                     <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> near
+the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane.</hi> 1693.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:36442:18"/>
+                  <pb n="35" facs="tcp:36442:18"/>
+                  <head>REFLECTIONS upon an Anſwer to the Letter from Monſieur
+<hi>De Cros.</hi> Pretended to be written by the Author of the
+<hi>Memoirs,</hi> &amp;c.</head>
+                  <p>WHEN the foregoing Papers were finiſh<g ref="char:EOLhyphen"/>ed, and juſt ready
+for the Preſs, I was ſurprized to hear that Sir <hi>W. T.</hi> him<g ref="char:EOLhyphen"/>ſelf
+had thought fit (contrary to what I had conjectured in the firſt pages of
+thoſe) to take publick notice of Monſ. <hi>De Cros</hi>'s Letter; That it
+was now juſt come out, and crying about the Streets: Tho I had then ſeveral
+ſurmiſes that it might be ſome Impo<g ref="char:EOLhyphen"/>ſture, yet one could not well be
+more amazed than I was, as a piece of News I had ſo little expected, and the
+contrary of which I thought I had ſo well convinced both the world, and my
+ſelf. Whatever I expected from it, I was eager enough to get it, and to read
+it o<g ref="char:EOLhyphen"/>ver: My ſuſpicion increaſed ſufficiently, when I had not gone
+above ten Lines; and when I had peruſed it, I found my ſelf as much
+diſappointed, as I was by <hi>De Cros</hi>'s Letter; being throughly
+convinced it was a Counter<g ref="char:EOLhyphen"/>feit, (tho a witty one, and perhaps an innocent one
+too.) For this I found ſeveral undeniable Reaſons, which I ſup<g ref="char:EOLhyphen"/>poſe any
+thinking Reader could not but obſerve as well as I.</p>
+                  <p>And firſt, I took notice of the <hi>Exordium</hi> as a
+little too common and thredbare for that Author; and imagi<g ref="char:EOLhyphen"/>ned a worſe Writer
+might have been hard put to it, not to have found a better than, The
+<hi>importunity of his Friends</hi> for writing in his own defence. Beſides,
+I thought the diſguiſe of it was ſomething mean, and could not con<g ref="char:EOLhyphen"/>ceive
+why, if that Author had a mind to own it, he <pb n="36" facs="tcp:36442:19"/>ſhould
+chuſe to do it in the <hi>Third Perſon,</hi> rather than the
+<hi>Firſt.</hi>
+                  </p>
+                  <p>Another Reaſon is; That this Anſwerer makes him publickly
+own the <hi>Memoirs,</hi> which I could never hear he has yet done. Nay
+farther; He makes Him defend them in all parts; which I doubt, if he had owned
+them, he would not do it any further than the Truth; ſince for the reſt, as
+the Publiſher of them obſerves, they are in many places imperfect, and
+uncorrect, by having never been reviewed; and ſo may be juſtly liable to
+ſome Ex<g ref="char:EOLhyphen"/>ceptions of that kind: And the <hi>Galliciſms</hi> upon which
+<hi>De Cros</hi>'s <hi>Advertiſer</hi> ſays, the <hi>Criticks</hi> have
+been ſo ſe<g ref="char:EOLhyphen"/>vere, may eaſily diſcover they were not deſigned for the
+Publick in that Dreſs they have appeared. Now, tho this Pretended Anſwerer
+endeavours to imitate Sir <hi>W. T.</hi> in this Point, as well as in the uſe
+of ſeveral other Words which are found in the <hi>Memoirs,</hi> and he
+imagines a little particular; yet he has made ſo great a diſcove<g ref="char:EOLhyphen"/>ry in
+ſeveral others, that by conſiſting of two ſuch diffe<g ref="char:EOLhyphen"/>rent pieces, the
+whole lies too open to deceive. For al<g ref="char:EOLhyphen"/>tho ſuch words as <hi>Blunder,
+Hanſ-en Kelder, A man of ſuch a Kidney</hi> with ſome others, may well
+enough become ſuch a Scribler as I am, yet they are very unlike that
+Au<g ref="char:EOLhyphen"/>thor's Expreſſions, and below his Stile.</p>
+                  <p>Another ground I have to conclude this Anſwer for a
+Counterfeit, is for ſome Quotations which I ſhall never ſuſpect ſuch
+a Writer as Sir <hi>W. T.</hi> would have made uſe of. As firſt, that poor
+Line, <hi>Canes qui latrant,</hi> &amp;c. which looks like an
+<hi>Engliſh</hi> Proverb tranſlated into very bald <hi>Latin.</hi> Then (to
+mention no more of them) another Quotation as unlike as the firſt, from Mr.
+<hi>Samuel Johnſon,</hi> which agrees very little with that Author's way, who
+is obſerved in all he writes, to be very tender in medling with controverted
+Points of State and Government.</p>
+                  <p>Beſides, This whole Pamphlet, tho it muſt be con<g ref="char:EOLhyphen"/>feſs'd
+to be ingenious, and written with a great deal of Wit, yet that very ſtrain
+of <hi>Witting</hi> it ſo much, and running things into Ridicule, makes it
+look very diffe<g ref="char:EOLhyphen"/>rent <pb n="37" facs="tcp:36442:19"/>from any thing we have yet ſeen of
+Sir <hi>W. T</hi>'s Wri<g ref="char:EOLhyphen"/>tings: And I obſerve in ſeveral places of the
+<hi>Miſcella<g ref="char:EOLhyphen"/>nea,</hi> this very vein is taken notice of for a thing of
+<hi>pernicious Conſequence to Learning and good Manners;</hi> ſo that if
+Sir <hi>W. T.</hi> be really poſſeſſed of ſuch a Talent, he keeps it
+very much to himſelf, and muſt be allowed for the beſt Diſguiſer of
+it in the World, through all he had publiſhed; which would make his Readers
+think that he intended to paſs rather for a Wife and Good Man, than for a
+Witty.</p>
+                  <p>Another ſufficient Reaſon for me to reject this An<g ref="char:EOLhyphen"/>ſwer,
+is, That it makes Sir <hi>W. T.</hi> grant in ſome kind, the ſevereſt of
+<hi>de Cros</hi>'s unreaſonable Slanders, of <hi>failing in his Fidelity to
+his Maſter;</hi> and to defend him<g ref="char:EOLhyphen"/>ſelf in it, by excuſing it from
+Examples of that kind; which in my Opinion, would be to lay himſelf
+need<g ref="char:EOLhyphen"/>leſly open to Cenſures, that I ſuppoſe, he has not de<g ref="char:EOLhyphen"/>ſerved;
+and would ſhew ſuch a want of Judgment in him, as I ſhall not be apt to
+believe from and other Writings but his own, and better atteſted than I find
+it here.</p>
+                  <p>I ſhall add to all theſe, what I obſerved in an
+Ad<g ref="char:EOLhyphen"/>vertiſement before the Firſt Part of the <hi>Miſcellanea,</hi> where
+the Bookſeller tells the Reader from the Author, that thenceforth he would
+never Publiſh any thing with<g ref="char:EOLhyphen"/>out putting his Name to it, which not finding
+before this Pamphlet, was another Reaſon to conclude it a ſuppoſititious
+Piece. All which put together, makes me believe Sir <hi>W. T.</hi> was no more
+the Author of this Anſwer, than of <hi>Tully</hi>'s <hi>Offices.</hi>
+                  </p>
+                  <p>When I had ſatisfied my ſelf in this Point, it was not
+eaſy for me to find out what the Writer of this Anſwer ſhould mean by
+taking ſo much pains to make it paſs for Sir <hi>W. T.</hi>'s; which
+ſeems to me a very new way of Writing; and whereof I cannot give any other
+inſtance beſides this, from what has occured in my Reading or
+Converſation. I know very well, that ſeveral Ancient Pieces which go under
+great Author's <pb n="38" facs="tcp:36442:20"/>Names, are found by the Learned Criticks of
+theſe latter Ages, to have been ſpurious; yet they were never born till
+long after the Death of the ſuppoſed Fathers. I know likewiſe, that there
+have been ſeve<g ref="char:EOLhyphen"/>ral Laws made in <hi>France;</hi> one, I am ſure, in this
+pre<g ref="char:EOLhyphen"/>ſent Century, againſt the Printing any Books, under ſevere Penalties,
+without ſetting the Author's Name to them, and their known Name, becauſe
+ſome ha<g ref="char:EOLhyphen"/>ving two Names, one by which they were commonly called, tho the other
+perhaps were the particular Name of their Family; ſome Perſons
+diſguiſed their Writings under the Name that was little known, tho it might
+be their own: To ſo nice and cautious Cares the Laws there thought fit to
+deſcend upon this mat<g ref="char:EOLhyphen"/>ter. I remember there was an Ingenious Diſcourſe
+Printed within theſe few years in <hi>France,</hi> upon the Cuſtom of
+uſing borrowed or diſguiſed Names in the Publiſhing of Books: But in
+the Cenſures and Com<g ref="char:EOLhyphen"/>plaints that Author makes of this ill Cuſtom, I did
+not take notice of any one Example he mentions, further than of ſuch Books as
+had been publiſhed un<g ref="char:EOLhyphen"/>der Names of Perſons dead, or elſe under ſuch as
+were wholly fictitious, and made at their own pleaſures; which laſt has
+peradventure appear'd in moſt Ages and Countries where Printing has been
+uſed, but toucht no Man farther than a Satyr of <hi>Don Quixot,</hi> or
+<hi>Francion,</hi> or any ſuch like. But I have never ob<g ref="char:EOLhyphen"/>ſerved, nor heard
+of any Example of this kind beſides this Anſwer, where the Auther, whole
+Name was bor<g ref="char:EOLhyphen"/>rowed, was alive, and in the ſame Kingdom, and ſo avowedly
+with the Name of a known Bookſeller in the Title-page.</p>
+                  <p>Whatever the intention may have been in the Wri<g ref="char:EOLhyphen"/>ter, whether
+wholly innocent, or a little intereſſed to give Vogue to his Pamphlet, or
+in conſidering the Bookſeller's profit by making it paſs for an Author's,
+whoſe Name he knew would <hi>help it off the</hi> better; yet I cannot but
+apprehend the Example of it ill, and <pb n="39" facs="tcp:36442:20"/>the Conſequences of
+it may be worſe, if it ſhould fall into Common practice; for by this way of
+Writing and Publiſhing either Books or Pamphlets, any Man may be made a
+publick Defamer of himſelf at another Man's pleaſure, and not only
+<hi>ſo,</hi> but to accuſe him<g ref="char:EOLhyphen"/>ſelf of any Crime which the Rigour of our
+Laws requires no man to do. As far as my Thoughts will reach, I do not conceive
+why it ſhould not be as bad to counterfeit a Book as a Bond; and to wrong a
+Man in his Reputation, as great an Injury, as to cheat him of his Money: This
+muſt be the reaſon why Slander and Scandal are as ſufficient a ground to
+maintain an Action in Law, as Damage and Battery: Nothing is an injury any
+farther than it is taken, and hurts a Man more or leſs, as he is ſenſible
+of it, Now, tho it may be true, that in every Age there may be more than
+<hi>Nine Worthies</hi> who put a greater value on their Money than their
+Honour, yet there may be every where, and at all times, ſome <hi>ſilly
+Foplings,</hi> who do quite the contrary; and I know no reaſon, why they
+ſhould not pretend to be ſafe in the Poſſeſſions they moſt value,
+as well as the others; nor why the Law ſhould not take fome care of ſuch
+poor Inno<g ref="char:EOLhyphen"/>cents. Nor further, can I find out why a <hi>Stationer</hi> ſhould
+not be puniſht for <hi>Forgery,</hi> as well as a <hi>Notary</hi> or
+<hi>Scrivener</hi> may be. Whether I am too ſerious or no, upon a Subject
+that may appear trivial at firſt ſight, or whether ſuch a Trifle be worth
+any legal Proviſions againſt it, I am ſure, <hi>Hae Nugae ſeria ducunt
+in Mala;</hi> and that 'tis at leaſt an <hi>Edg-tool</hi> which ought not to
+be plaid with.</p>
+                  <p>I could never well comprehend the true reaſon, why it
+ſhould be ſuch a diſgrace to be a <hi>Cuckold,</hi> or why one Perſon
+ſhould ſuffer for another's fault, how near<g ref="char:EOLhyphen"/>ly ſoever related to him: But
+I can very eaſily appre<g ref="char:EOLhyphen"/>hend the Injury of it, which is, that one Man
+ſhould be put upon fathering another Man's Children, or at the beſt
+ſhould be in danger of it; and this ſeems to be <pb n="40" facs="tcp:36442:21"/>meant
+by the word, which at firſt was intended, that a Man was <hi>Cuckoo'd,</hi>
+that is, dealt with as <hi>Cuckoos</hi> are ſaid to do with other Birds, by
+laying their Eggs in their Neſts, and thereby making them hatch and bring up
+young Ones that are none of their own, (for this is the beſt Etymology I can
+find out for a word ſo commonly uſed). Now, the ſame Injury may be as
+ſenſible in what concerns the Children of the Brain (as Books have been
+call'd) which may be as lawful and as natural Iſſues, and ſome parents
+may be as fond of them, and as much concerned about them. And tho it paſs for
+no Crime for People to expoſe their Children when they have no mind to own
+them, or think they are not able to maintain them, and they may be content any
+body elſe ſhould father them that will; yet this is an Office no body would
+be forc'd upon un<g ref="char:EOLhyphen"/>dertaking, how little ſoever it may coſt them, and how
+innocently ſoever it may have been intended.</p>
+                  <p>I could not forbear to make this Reflection upon this Subject,
+if it were for nothing elſe but to make good my Profeſſion in the
+Title-page, of being <hi>A Lover of Truth.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
